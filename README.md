@@ -10,3 +10,7 @@ pip install -r requriments.txt
 
 ## Attention code
 modify_llama.py
+
+
+## GMM
+matmul_ops.cpp
